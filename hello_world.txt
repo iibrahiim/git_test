@@ -1,0 +1,4 @@
+Hej världen!
+
+Detta är en testfil som jag har skapat för att utveckla mina programmeringskunskaper.
+I dagsläget så är det inte riktigt programmering ännu, utan det är terminal kunskaperna som finslipas.
